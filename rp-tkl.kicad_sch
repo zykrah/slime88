@@ -3932,6 +3932,27 @@
     (path "/bd32ff0a-296d-4a5c-a2b0-85cef39b9249"
       (reference "R7") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/2d859cf8-5d45-4695-a354-00981c5d2259"
+      (reference "S1") (unit 1) (value "BACKSPACE") (footprint "marbastlib-mx:STAB_MX_2u")
+    )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/5bbd03c4-a095-46c3-b273-8a0aeac571fe"
+      (reference "S2") (unit 1) (value "ISO_ENTER") (footprint "marbastlib-mx:STAB_MX_ISO_FLIPPED")
+    )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/82e235bd-085e-4549-96de-b446505b5610"
+      (reference "S3") (unit 1) (value "ANSI_ENTER") (footprint "marbastlib-mx:STAB_MX_2.25u")
+    )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/cd33e505-0726-44a4-8f1a-bb4c362685d7"
+      (reference "S4") (unit 1) (value "LSHIFT") (footprint "marbastlib-mx:STAB_MX_2.25u")
+    )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/5738d790-b156-436b-9bc5-6c1fc87487d9"
+      (reference "S5") (unit 1) (value "RSHIFT") (footprint "marbastlib-mx:STAB_MX_2.75u")
+    )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/7825fb9e-f3f5-43fe-9922-3f3242d7fc70"
+      (reference "S6") (unit 1) (value "7U_SPACE") (footprint "marbastlib-mx:STAB_MX_7u")
+    )
+    (path "/0725a7ea-5a55-410a-a32c-06489f3e6998/f7df31fc-e75b-4e66-83a2-a1ac516b77f8"
+      (reference "S7") (unit 1) (value "6.25U_SPACE") (footprint "marbastlib-mx:STAB_MX_6.25u")
+    )
     (path "/df52ecfd-d6ac-4a2d-94d8-4402699e85fd"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )

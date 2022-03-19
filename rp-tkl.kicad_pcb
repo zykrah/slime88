@@ -4142,6 +4142,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "marbastlib-mx:SW_MX_HS_1.25u" (layer "B.Cu")
@@ -8325,6 +8330,11 @@
     (pad "57" thru_hole circle locked (at 0 1.275 180) (size 0.6 0.6) (drill 0.35) (layers *.Cu)
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp d775df33-da73-406f-a91c-3fd2cfea0a99))
     (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/Sleep-lib/RP2040_QFN_PACKAGE.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

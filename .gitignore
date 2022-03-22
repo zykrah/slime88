@@ -3,3 +3,5 @@ rp-tkl-backups/
 _autosave-matrix.kicad_sch
 _autosave-matrix.kicad_pcb
 jlcpcb/
+*.kicad_sch-bak
+*.kicad_pcb-bak

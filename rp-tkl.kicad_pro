@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 2.5,
+          "width": 2.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -410,7 +410,6 @@
           "COL14",
           "COL15",
           "COL16",
-          "COL17",
           "COL2",
           "COL3",
           "COL4",
@@ -443,8 +442,6 @@
           "Net-(D29-Pad2)",
           "Net-(D3-Pad2)",
           "Net-(D30-Pad2)",
-          "Net-(D31-Pad2)",
-          "Net-(D32-Pad2)",
           "Net-(D33-Pad2)",
           "Net-(D34-Pad2)",
           "Net-(D35-Pad2)",

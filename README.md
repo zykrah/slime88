@@ -30,6 +30,8 @@
 - Add physical boot switch (you currently have to short the BOOT pins manually)
 - Version with flex cuts (Already done but removed for acoustic reasons. See the board at [this point in time](https://github.com/zykrah/slime88/commit/3de3e59620d77a87f4beb085508b7e4e2e0daaf5))
 - Update silkscreen graphics
+- Add more layout indicators on the top silkscreen of the pcb
+- Do something more special with USB shield/ground connection (currently shield is connected straight to ground)
 
 
 ## Multi-Layout Support

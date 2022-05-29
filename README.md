@@ -22,6 +22,7 @@
 - Optimized for manufacturing and assembly with JLCPCB
 - Bonus: Curved traces
 
+> Also, `Sleep-Lib` is just the library by [Sleepdealer](https://github.com/Sleepdealr), used in his [RP2040 Design guide](https://github.com/Sleepdealr/RP2040-designguide)
 
 ## WIP/Ideas
 - Spare components on the board (i.e. diodes)

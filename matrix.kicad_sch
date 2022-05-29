@@ -2281,7 +2281,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 243.84 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 2d859cf8-5d45-4695-a354-00981c5d2259)
     (property "Reference" "S1" (id 0) (at 249.555 68.8145 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2876,7 +2876,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 191.77 118.11 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 5738d790-b156-436b-9bc5-6c1fc87487d9)
     (property "Reference" "S5" (id 0) (at 193.04 110.49 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2961,7 +2961,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 187.96 85.09 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 5bbd03c4-a095-46c3-b273-8a0aeac571fe)
     (property "Reference" "S2" (id 0) (at 189.23 77.47 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3246,7 +3246,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 134.62 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7825fb9e-f3f5-43fe-9922-3f3242d7fc70)
     (property "Reference" "S7" (id 0) (at 140.335 133.5845 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3494,7 +3494,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 190.5 102.87 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 82e235bd-085e-4549-96de-b446505b5610)
     (property "Reference" "S3" (id 0) (at 191.77 95.25 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4433,7 +4433,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 40.64 118.11 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid cd33e505-0726-44a4-8f1a-bb4c362685d7)
     (property "Reference" "S4" (id 0) (at 46.355 117.0745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4993,7 +4993,7 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_stab") (at 96.52 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid f7df31fc-e75b-4e66-83a2-a1ac516b77f8)
     (property "Reference" "S6" (id 0) (at 102.235 133.5845 0)
       (effects (font (size 1.27 1.27)) (justify left))

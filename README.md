@@ -1,9 +1,11 @@
 # Slime88 TKL PCB
  A F13 TKL Multi-Layout Hotswap H88-Compat Type-C PCB, designed in KiCAD 6.0.
 
-![image](https://user-images.githubusercontent.com/23428162/170872810-64eff0b5-b5bb-4125-aa0f-7605366ba552.png)
+> NOTE: Below images may be outdated.
 
-![image](https://user-images.githubusercontent.com/23428162/170872794-1a198b70-811a-41c9-a83d-e31948047410.png)
+![image](https://user-images.githubusercontent.com/23428162/170985512-ec79f498-7476-4ab6-8150-877c67a25f26.png)
+
+![image](https://user-images.githubusercontent.com/23428162/170985490-84c50a2a-0e6f-46b4-95e9-b4f4e7d632d8.png)
 
 
 ## Features
@@ -32,7 +34,7 @@
 - Update silkscreen graphics
 - Add more layout indicators on the top silkscreen of the pcb
 - Do something more special with USB shield/ground connection (currently shield is connected straight to ground)
-
+- ~~Also breakout 3v3 and 5v on the pin breakout~~ Thanks [@vinorodrigues](https://github.com/vinorodrigues)!
 
 ## Multi-Layout Support
 

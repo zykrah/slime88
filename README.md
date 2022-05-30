@@ -17,6 +17,7 @@
 - Multi-layout (see below)
 - Removable USB-C connector, as well as a JST connector for [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard) support (for F13 TKL boards that are compatible with the daughterboard version of the h88c)
 - Has cutouts for a gummy o-ring mount (Same as the hineybush h88c pcb, for boards such as the Freebird TKL or TGR Jane V2 CE)
+- BOOT pins/header for getting into bootloader (short the pins while plugging in) if [bootmagic](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_bootmagic.md) isn't available . Acessible from both sides of the PCB, even when PCB is built in a keyboard. Just remove the **END key/switch** to access it.
 - SWD header for debugging
 - Has unused MCU GPIO pins broken out
 - ESD chip (SRV05-4) to prevent damage from electrostatic discharge

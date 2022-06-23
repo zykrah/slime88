@@ -1,11 +1,23 @@
 # Slime88 TKL PCB
  A F13 TKL Multi-Layout Hotswap H88-Compat Type-C PCB, designed in KiCAD 6.0.
 
+**This board has now been prototyped! See IRL images below.**
+
 > NOTE: Below images may be outdated.
+
+Renders (KiCAD):
 
 ![image](https://user-images.githubusercontent.com/23428162/170985512-ec79f498-7476-4ab6-8150-877c67a25f26.png)
 
 ![image](https://user-images.githubusercontent.com/23428162/170985490-84c50a2a-0e6f-46b4-95e9-b4f4e7d632d8.png)
+
+IRL images of rev1 protos:
+
+![image](https://user-images.githubusercontent.com/23428162/175326415-0662c19f-3ceb-414e-bd07-46e49cf91a11.png)
+
+![image](https://user-images.githubusercontent.com/23428162/175326277-7a33a5fa-5684-4a13-b2d9-78f20d463656.png)
+
+![image](https://user-images.githubusercontent.com/23428162/175326340-bfffcaf4-7a37-4090-9176-9de9ad3649e0.png)
 
 
 ## Features
@@ -27,6 +39,11 @@
 
 > Also, `Sleep-Lib` is just the library by [Sleepdealer](https://github.com/Sleepdealr), used in his [RP2040 Design guide](https://github.com/Sleepdealr/RP2040-designguide).
 
+## Firmware
+You can find the firmware [here](https://github.com/zykrah/vial-qmk/tree/rp2040/keyboards/zykrah/slime88). As of writing, the board runs the rp2040 branch/fork of vial-qmk. I will update this to use the official QMK implementation of RP2040 when it releases.
+
+![image](https://user-images.githubusercontent.com/23428162/175326634-b620f7c7-f3c0-4445-ab55-75b2404a5e0f.png)
+
 ## WIP/Ideas
 - Spare components on the board (i.e. diodes)
 - Add physical reset switch (you currently have to short the pins on the SWD header manually)
@@ -35,6 +52,7 @@
 - Update silkscreen graphics
 - Add more layout indicators on the top silkscreen of the pcb
 - Do something more special with USB shield/ground connection (currently shield is connected straight to ground)
+- Move ESD chip to before fuse
 - ~~Also breakout 3v3 and 5v on the pin breakout~~ Thanks [@vinorodrigues](https://github.com/vinorodrigues)!
 
 ## Multi-Layout Support

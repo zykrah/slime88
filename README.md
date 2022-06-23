@@ -21,7 +21,7 @@ IRL images of rev1 protos:
 
 
 ## Features
-- Fits the h88(c) standard
+- Fits the h88(c) standard (confirmed working in a KFE CE, should fit F13 frog)
 - Uses the RP2040 MCU (new), with 16MB of external flash
 - Uses Kailh Hotswap Sockets
 - Added anti-shearing to the hotswap sockets

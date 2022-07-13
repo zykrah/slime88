@@ -40,7 +40,7 @@ IRL images of rev1 protos:
 > Also, `Sleep-Lib` is just the library by [Sleepdealer](https://github.com/Sleepdealr), used in his [RP2040 Design guide](https://github.com/Sleepdealr/RP2040-designguide).
 
 ## Firmware
-You can find the firmware [here](https://github.com/zykrah/vial-qmk/tree/rp2040/keyboards/zykrah/slime88). As of writing, the board runs the rp2040 branch/fork of vial-qmk. I will update this to use the official QMK implementation of RP2040 when it releases.
+You can find the firmware [here](https://github.com/zykrah/vial-qmk/tree/vdev-zykrah/keyboards/zykrah/slime88). As of writing, the board runs the rp2040 branch/fork of vial-qmk. I will update this to use the official QMK implementation of RP2040 when it releases.
 
 ![image](https://user-images.githubusercontent.com/23428162/175326634-b620f7c7-f3c0-4445-ab55-75b2404a5e0f.png)
 

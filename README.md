@@ -75,14 +75,18 @@ Uses mousebites. Strength/functionality is untested.
 ![image](https://user-images.githubusercontent.com/23428162/170873526-fdf4c577-7e0c-4878-ab48-44ff42580f77.png)
 
 
-## How to generate files for Manufacturing (JLCPCB)
-I would personally use [this plugin](https://github.com/Bouni/kicad-jlcpcb-tools).
+## How to Manufacture the PCBs (JLCPCB)
+~~I would personally use [this plugin](https://github.com/Bouni/kicad-jlcpcb-tools).~~
 
-All components should be basic components, apart from the MCU, fuse, and JST connector (extended). 
+~~All components should be basic components, apart from the MCU, fuse, and JST connector (extended).~~
 
-JLC also does have [kailh hotswap sockets](https://jlcpcb.com/parts/componentSearch?isSearch=true&searchTxt=C2803348) (extended) in its parts library, but you should be very careful with the ANSI/ISO multilayout support. In the BOM, only include either desired combination of sockets (or none of them, and hand solder in the ones you want).
+~~JLC also does have [kailh hotswap sockets](https://jlcpcb.com/parts/componentSearch?isSearch=true&searchTxt=C2803348) (extended) in its parts library, but you should be very careful with the ANSI/ISO multilayout support. In the BOM, only include either desired combination of sockets (or none of them, and hand solder in the ones you want).~~
 
-**NOTE: As the USB C connector is top-mounted (all other components are bottom mounted), as of writing, JLCPCB cannot assemble the USB C connector. You will likely have to hand solder it.**
+The manufacturing files (JLCPCBA specific) have been added to the repo, you need to choose betweeen ANSI or ISO enter/pipe hotswap sockets being soldered by default.
+
+You may want to consider generating the manufacturing files for yourself. I have not fully tested the ones that are currently in the repo.
+
+> **NOTE: As the USB C connector is top-mounted (all other components are bottom mounted), as of writing, JLCPCB will charge extra to assemble the USB C connector (Standard assembly, both sides). You will likely have to hand solder it if you don't want to pay too much. Otherwise, seek out a proper PCB manufacturer (which will require further experience/knowledge).**
 
 ## Silkscreen
 For the non-weebs, the silkscreen is based on Rimuru Tempest

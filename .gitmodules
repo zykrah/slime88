@@ -5,3 +5,6 @@
 [submodule "MX_Alps_Hybrid"]
 	path = MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "Kicad-RP2040-lib"]
+	path = Kicad-RP2040-lib
+	url = https://github.com/Sleepdealr/Kicad-RP2040-lib

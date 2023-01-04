@@ -6,3 +6,5 @@ jlcpcb/
 *.kicad_sch-bak
 *.kicad_pcb-bak
 _autosave-slime88.kicad_pcb
+\#auto_saved_files\#
+keyautoplace.log

@@ -40,7 +40,11 @@ IRL images of rev1 protos:
 > Also, `Sleep-Lib` is just the library by [Sleepdealer](https://github.com/Sleepdealr), used in his [RP2040 Design guide](https://github.com/Sleepdealr/RP2040-designguide).
 
 ## Firmware
-~~As of writing, the board runs the rp2040 branch/fork of vial-qmk. I will update this to use the official QMK implementation of RP2040 when it releases.~~ ~~UPDATE: RP2040 support has recently made it into QMK's `develop` branch. It will be fully merged to `master` by Q3 this year. Until then, the official maintainer of vial doesn't intend to merge those changes into their vial repo either, so I have made my own fork for the boards. When vial-qmk is officially updated to use QMK's implementiation of the RP2040, I will update this page once again linking to that, assuming I get the board merged into the official repo too.~~ You can find the up-to-date VIAL firmware [here](https://github.com/zykrah/vial-qmk/tree/vdev-zykrah/keyboards/zykrah/slime88). UPDATE: The board is now also in [qmk master](https://github.com/qmk/qmk_firmware/tree/master/keyboards/zykrah/slime88).
+~~As of writing, the board runs the rp2040 branch/fork of vial-qmk. I will update this to use the official QMK implementation of RP2040 when it releases.~~ ~~UPDATE: RP2040 support has recently made it into QMK's `develop` branch. It will be fully merged to `master` by Q3 this year. Until then, the official maintainer of vial doesn't intend to merge those changes into their vial repo either, so I have made my own fork for the boards. When vial-qmk is officially updated to use QMK's implementiation of the RP2040, I will update this page once again linking to that, assuming I get the board merged into the official repo too.~~
+
+You can find the up-to-date VIAL firmware [here](https://github.com/zykrah/vial-qmk/tree/vdev-zykrah/keyboards/zykrah/slime88). 
+
+UPDATE: The board is now also in [qmk master](https://github.com/qmk/qmk_firmware/tree/master/keyboards/zykrah/slime88). (This particular version will only be VIA compatible). It should automatically be detected in VIA.
 
 ![image](https://user-images.githubusercontent.com/23428162/175326634-b620f7c7-f3c0-4445-ab55-75b2404a5e0f.png)
 

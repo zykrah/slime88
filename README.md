@@ -42,7 +42,7 @@ IRL images of rev1 protos:
 ## Firmware
 ~~As of writing, the board runs the rp2040 branch/fork of vial-qmk. I will update this to use the official QMK implementation of RP2040 when it releases.~~ ~~UPDATE: RP2040 support has recently made it into QMK's `develop` branch. It will be fully merged to `master` by Q3 this year. Until then, the official maintainer of vial doesn't intend to merge those changes into their vial repo either, so I have made my own fork for the boards. When vial-qmk is officially updated to use QMK's implementiation of the RP2040, I will update this page once again linking to that, assuming I get the board merged into the official repo too.~~
 
-You can find the up-to-date VIAL firmware [here](https://github.com/zykrah/vial-qmk/tree/vdev-zykrah/keyboards/zykrah/slime88). 
+You can find the up-to-date VIAL firmware [here](https://github.com/zykrah/vial-qmk/tree/vial-stable-zykrah/keyboards/zykrah/slime88). 
 
 UPDATE: The board is now also in [qmk master](https://github.com/qmk/qmk_firmware/tree/master/keyboards/zykrah/slime88). (This particular version will only be VIA compatible). It should automatically be detected in VIA.
 
